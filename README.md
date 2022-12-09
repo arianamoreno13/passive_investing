@@ -17,7 +17,7 @@ import sqlalchemy
 
 Usage:
 
-<img src="images/volia_recording.gif"alt="volia recording gif"width="700"/>
+![voila recording](Starter_Code/images/volia_recording.gif)
 
 Contributors:
     
